@@ -24,6 +24,7 @@ namespace Variables_and_Constraints
             // ===== Constant =====
             const float Pi = 3.14f;
             System.Console.WriteLine(Pi);
+            // output 3.14
         }
     }
 }
