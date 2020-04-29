@@ -1,0 +1,12 @@
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/bin/Debug/netcoreapp3.1/Type_Conversion.deps.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/bin/Debug/netcoreapp3.1/Type_Conversion.runtimeconfig.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/bin/Debug/netcoreapp3.1/Type_Conversion.runtimeconfig.dev.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/bin/Debug/netcoreapp3.1/Type_Conversion.dll
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/bin/Debug/netcoreapp3.1/Type_Conversion.pdb
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.csprojAssemblyReference.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.csproj.CoreCompileInputs.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.AssemblyInfoInputs.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.AssemblyInfo.cs
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.dll
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.pdb
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Type_Conversion/obj/Debug/netcoreapp3.1/Type_Conversion.genruntimeconfig.cache
