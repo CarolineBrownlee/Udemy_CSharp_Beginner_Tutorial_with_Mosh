@@ -41,7 +41,7 @@ namespace Type_Conversion
             // to convert the given value to a short
             // The short type reduces the memory usage of integers. It represents a number in 2 bytes—16 bits—half the size of an int.
             ToInt16();
-            // to convert the given value to an integer
+            // to convert the given value to an integer, or four bytes
             ToInt32();
             // to convert the given value to a long
             // A constant or variable defined as long can store a single 64-bit signed integer.
