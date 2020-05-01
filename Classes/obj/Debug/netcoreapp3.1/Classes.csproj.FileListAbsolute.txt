@@ -1,0 +1,12 @@
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/bin/Debug/netcoreapp3.1/Classes.deps.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/bin/Debug/netcoreapp3.1/Classes.runtimeconfig.dev.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/bin/Debug/netcoreapp3.1/Classes.dll
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/bin/Debug/netcoreapp3.1/Classes.pdb
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.csprojAssemblyReference.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.csproj.CoreCompileInputs.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfoInputs.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.AssemblyInfo.cs
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.dll
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.pdb
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Classes/obj/Debug/netcoreapp3.1/Classes.genruntimeconfig.cache
