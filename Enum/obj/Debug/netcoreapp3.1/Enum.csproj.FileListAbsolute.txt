@@ -1,0 +1,12 @@
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/bin/Debug/netcoreapp3.1/Enum.deps.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/bin/Debug/netcoreapp3.1/Enum.runtimeconfig.dev.json
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/bin/Debug/netcoreapp3.1/Enum.dll
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/bin/Debug/netcoreapp3.1/Enum.pdb
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.csprojAssemblyReference.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.csproj.CoreCompileInputs.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfoInputs.cache
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.AssemblyInfo.cs
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.dll
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.pdb
+/Users/caroline/workspace/CSharp/Udemy_CSharp_Beginner_Tutorial_with_Mosh/Enum/obj/Debug/netcoreapp3.1/Enum.genruntimeconfig.cache
