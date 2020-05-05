@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Iteration_Statements
 {
@@ -6,7 +7,65 @@ namespace Iteration_Statements
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // ===== FOR LOOP =====
+            // display even numbers from 1 to 10
+            for (var i = 1; i < 11; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    System.Console.WriteLine(i);
+                }
+            }
+
+            // reverse it
+            for (var i = 10; i > 0; i--)
+            {
+                if (i % 2 == 0)
+                {
+                    System.Console.WriteLine(i);
+                }
+            }
+
+            // ===== FOREACH LOOP =====
+            List<string> family = new List<string>() {
+                "Jane", "Molly"
+            };
+            // NSS Curriculum Syntax
+            family.ForEach(family => System.Console.WriteLine(family));
+
+            var members = new string[3] {
+                "Molly", "Caroline", "Joseph"
+            };
+
+            foreach (var person in members)
+            {
+                System.Console.WriteLine(person);
+            }
+
+            var numbers = new int[] {
+                1, 2, 3
+            };
+
+            foreach (var n in numbers)
+            {
+                System.Console.WriteLine(n);
+            };
+
+            // ===== WHILE LOOP =====
+            while (true)
+            {
+                Console.Write("Enter your name: ");
+                var input = Console.ReadLine();
+                if (String.IsNullOrWhiteSpace(input))
+                {
+                    break;
+                }
+                else
+                {
+                    System.Console.WriteLine("My name is " + input + "!");
+                }
+                continue;
+            };
         }
     }
 }
@@ -22,7 +81,7 @@ namespace Iteration_Statements
 // foreach Loops are for lists, or arrays
 // foreach (var number in numbers)
 // {
-    // statements that will execute
+// statements that will execute
 // }
 
 // ===== while LOOPS =====
@@ -30,9 +89,9 @@ namespace Iteration_Statements
 // similar to for loop, but with different syntax
 // while (i < 10)
 // {
-    // statements that will execute
-    // ...
-    // i++;
+// statements that will execute
+// ...
+// i++;
 // }
 
 // ===== Do-While LOOPS =====
