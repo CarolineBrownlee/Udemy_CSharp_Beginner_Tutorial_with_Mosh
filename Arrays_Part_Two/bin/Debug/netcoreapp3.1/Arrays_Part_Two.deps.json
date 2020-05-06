@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Arrays_Part_Two/1.0.0": {
+        "runtime": {
+          "Arrays_Part_Two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_Part_Two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
